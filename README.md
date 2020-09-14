@@ -19,6 +19,11 @@ play/listen to music, and have been an avid coder since the age of 10.
 
 ---
 
+[![Netlify Status](https://api.netlify.com/api/v1/badges/0676d0fc-f31a-43eb-86ee-bcb0177acab6/deploy-status)](https://app.netlify.com/sites/minierolls/deploys)
+*Personal Website*: [minierolls.com](https://minierolls.com)
+
+---
+
 <img align="center" alt="Nyan Octocat GIF" height="150px" src="https://github.com/minierolls/minierolls/raw/master/assets/nyantocat.gif" />
 
 ---
