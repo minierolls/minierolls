@@ -34,7 +34,7 @@ play/listen to music, and have been an avid coder since the age of 10.
 I always love to meet new people! If you'd like to ask questions or chat, you
 can contact me through:
 
-<img alt="Discord" height="40px" src="https://github.com/minierolls/minierolls/raw/master/assets/discord.svg" /> *minierolls#2481*
+<img alt="Discord" height="40px" src="https://github.com/minierolls/minierolls/raw/master/assets/discord.svg" /> *Mocha#1741*
 
 ---
 
