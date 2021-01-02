@@ -8,7 +8,7 @@ I'm John Namgung, a student developer in the United States. I love to tinker,
 play/listen to music, and have been an avid coder since the age of 10.
 
 - 🎓 Student at [Carnegie Mellon University](https://www.cmu.edu/)
-- 🎧 Current audio setup of choice is the Fiio BTR5 + Final A8000
+- 🎧 Current audio setup of choice: Schiit Modius + THX AAA 789 + Final A8000
 - ⌨️  ❤️ both '89 IBM Model M and Silk linears 🤷
 - 🖥️ ❤️ both
   [dependently typed functional programming languages](https://www.idris-lang.org/)
