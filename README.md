@@ -7,7 +7,6 @@
 I'm John Namgung, a student developer in the United States. I love to tinker,
 play/listen to music, and have been an avid coder since the age of 10.
 
-- 💼 Working at [SoundHound](https://www.soundhound.com/) as an NLU intern
 - 🎓 Student at [Carnegie Mellon University](https://www.cmu.edu/)
 - 🎧 Current audio setup of choice is the Fiio BTR5 + Final A8000
 - ⌨️  ❤️ both '89 IBM Model M and Silk linears 🤷
